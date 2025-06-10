@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/smp4/sysmlv2-python-cookiecutter",
+  "commit": "7860b149e5f89e57d4ca20f79b87a2a739ea287e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author": "Sean Bell",
+      "email": "smb@github.com",
+      "github_username": "Forgen",
+      "project_name": "StateOfSysmlV2Tools",
+      "project_slug": "stateofsysmlv2tools",
+      "project_short_description": "A SysML v2 model about the capabilities of SysML v2 tools.",
+      "repo_url": "https://github.com/forgen/stateofsysmlv2tools",
+      "_copy_without_render": [],
+      "_template": "https://github.com/smp4/sysmlv2-python-cookiecutter",
+      "_commit": "7860b149e5f89e57d4ca20f79b87a2a739ea287e"
+    }
+  },
+  "directory": null
+}
